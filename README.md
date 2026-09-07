@@ -5,9 +5,9 @@ Interact with your home server and IoT devices from anywhere by using a simple s
 
 ## How does it work?
 
-With w2h, your computer uses a simple polling method to receive messages and instructions from you via your website. 
+Your computer uses a simple polling method to receive messages and instructions from you via your website. 
 
-By default, your home network blocks anything on the internet from coming in. Therefore, every few seconds your computer sends an outgoing request to your website to see if you have sent any messages, commands or files. This allows your home server to receive instructions without compromising the security of your network. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction, which it then executes.
+By default, your home network blocks anything on the internet from coming in. With w2h, every few seconds your computer sends an outgoing request to your website to see if you have sent any messages, commands or files. This allows your home server to receive instructions without compromising the security of your network. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction, which it then executes.
 
 To ensure that only you can access your website, w2h uses a simple token based access control system, instead of a complicated registration and login system.
 
@@ -29,3 +29,13 @@ Instead of asking "anything new?" every 2 seconds and always getting an instant 
 
 You've traded request frequency for connection duration, and duration is the thing to watch if this ever needs to scale to more simultaneous clients than just the one Mac and one phone.
 
+<br>
+
+## What you can do with the example app
+
+- Send messages from a chat interface and get dummy responses from your home server.
+- Use the control panel to press a button that remotely turns an Arduino LED on and off.
+- Send files from your website to your home server.
+- See the token access control system in action
+
+<br>
