@@ -45,7 +45,7 @@ You've traded request frequency for connection duration, and duration is the thi
 Use the web browser on your phone to send instructions to your laptop (home server).
 
 - Send messages from a mobile chat interface and get dummy responses from the code running on your laptop.
-- Use the control panel to press a button that remotely turns an Arduino LED on and off. The Arduino will be connected to your laptop.
+- Use the control panel to press a button that remotely turns an Arduino LED on and off.
 - Send files from your phone to your laptop.
 - See the token access control system in action.
 
