@@ -7,7 +7,7 @@ Interact with your home server and IoT devices from anywhere by using a simple s
 
 Think of your computer at home (home server) as a person sitting inside a secure, locked house, and your website as a mailbox on the street. Your home internet router blocks outsiders from knocking on your door (which is standard for home networks). 
 
-With w2h, your computer uses a simple method to receive messages and instructions from you when you are not at home:
+With w2h, your computer uses a simple polling method to receive messages and instructions from you via a website:
 
 - Checking the Mailbox: Every few seconds, your computer steps outside (by sending an outgoing request) to check your website to see if you've sent any messages, commands or files via your website.
 
