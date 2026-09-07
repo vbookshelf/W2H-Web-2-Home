@@ -9,7 +9,7 @@ Think of your computer at home (home server) as a person sitting inside a secure
 
 With w2h, your computer uses a simple polling method to receive messages and instructions from you via a website:
 
-- Checking the Mailbox: Every few seconds, your computer steps outside (by sending an outgoing request) to check your website to see if you've sent any messages, commands or files via your website.
+- Checking the Mailbox: Every few seconds, your computer steps outside (by sending an outgoing request) to check your website to see if you've sent any messages, commands or files via your website. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction.
 
 - Dropping Off Updates: While it's checking the mailbox, your computer can also leave a status report or update inside the mailbox so your web interface knows what the status is at your home.
 
