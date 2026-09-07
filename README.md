@@ -37,3 +37,5 @@ The Mac walks to the mailbox and says "I'll just wait here until something arriv
 
 Instead of asking "anything new?" every 2 seconds and always getting an instant answer, it asks once and the server sits on the answer until it's actually true (or 20 seconds pass).
 
+You've traded request frequency for connection duration, and duration is the thing to watch if this ever needs to scale to more simultaneous clients than just the one Mac and one phone.
+
