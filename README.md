@@ -7,7 +7,7 @@ Python + Html + CSS + JS + PHP
 <br>
 
 <img src="images/image1.jpg" alt="Arduino Nano connected to Macbook Air via USB." height="350">
-<p>This LED can be switched on and off from your website.</p>
+<p>This Arduino LED can be switched on and off from your website.</p>
 
 <br>
 
