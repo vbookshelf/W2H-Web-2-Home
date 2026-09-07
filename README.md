@@ -6,6 +6,13 @@ Python + Html + CSS + JS + PHP
 
 <br>
 
+<img src="images/image1.jpg" alt="Arduino Nano connected to Macbook Air via USB." height="350">
+<p>This LED can be switched on and off from your website.</p>
+
+<br>
+
+<br>
+
 ## How does it work?
 
 Your computer uses a simple polling method to receive messages and instructions from you via your website. 
