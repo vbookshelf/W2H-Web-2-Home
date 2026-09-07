@@ -38,6 +38,14 @@ You've traded request frequency for connection duration, and duration is the thi
 
 <br>
 
+## Downsides
+
+- Streaming is not possible.
+- Latency associated with polling may be higher than the P2P connection that third party services provide.
+
+
+<br>
+
 ## What you can do with the example app
 
 Use the web browser on your phone to send instructions to your laptop (home server).
