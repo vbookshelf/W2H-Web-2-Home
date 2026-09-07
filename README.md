@@ -11,8 +11,6 @@ Python + Html + CSS + JS + PHP
 
 <br>
 
-<br>
-
 ## How does it work?
 
 Basic idea: Your computer uses a simple polling method to receive messages and instructions from you via your website. 
