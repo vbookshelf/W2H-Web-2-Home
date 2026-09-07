@@ -1,6 +1,9 @@
 # Web-2-Home Concept (W2H)
 Interact with your home server and IoT devices from anywhere by using a simple self-hosted web interface.
 
+Tech stack:<br>
+Python + Html + CSS + JS + PHP
+
 <br>
 
 ## How does it work?
