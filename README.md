@@ -12,8 +12,7 @@ Your computer uses a simple polling method to receive messages and instructions 
 
 By default, your home network blocks anything on the internet from coming in. With w2h, every few seconds your computer sends an outgoing request to your website to see if you have sent any messages, commands or files. This allows your home server to receive instructions without compromising the security of your network. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction, which it then executes.
 
-To ensure that only you can access your website, w2h uses a simple token based access control system, instead of a complicated registration and login system.
-
+To ensure that only you can access your website, w2h uses a simple token based access control system.
 <br>
 
 ## What is Long Polling?
