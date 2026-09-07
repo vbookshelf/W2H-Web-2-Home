@@ -5,17 +5,11 @@ Interact with your home server and IoT devices from anywhere by using a simple s
 
 ## How does it work?
 
-Think of your computer at home (home server) as a person sitting inside a secure, locked house, and your website as a mailbox on the street. Your home internet router blocks outsiders from knocking on your door (which is standard for home networks). 
+With w2h, your computer uses a simple polling method to receive messages and instructions from you via your website. 
 
-With w2h, your computer uses a simple polling method to receive messages and instructions from you via a website:
+By default, your home network blocks anything on the internet from coming in. Therefore, every few seconds your computer sends an outgoing request to your website to see if you have sent any messages, commands or files. This allows your home server to receive instructions without compromising the security of your network. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction, which it then executes.
 
-- Checking the Mailbox: Every few seconds, your computer steps outside (by sending an outgoing request) to check your website to see if you've sent any messages, commands or files via your website. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction.
-
-- Dropping Off Updates: While it's checking the mailbox, your computer can also leave a status report or update inside the mailbox so your web interface knows what the status is at your home.
-
-- Bringing it Back Inside: If there's a command waiting in the mailbox (e.g. turn on the light), your computer picks it up, brings it back inside the house, executes it, and saves the results. It then goes back outside to the mailbox and leaves a message saying that the instruction has been executed (e.g. the light has been turned on successfully).
-
-Your computer (home server) never has to open its doors to the public internet. It only reaches out to your website to get instructions and messages from you. To ensure that only you can access your website, w2h uses a simple token based access control system, instead of a complicated registration and login system.
+To ensure that only you can access your website, w2h uses a simple token based access control system, instead of a complicated registration and login system.
 
 <br>
 
