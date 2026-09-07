@@ -19,4 +19,7 @@ With w2h, your computer uses a simple method to receive messages and instruction
 
 - Bringing it Back Inside: If there's a command waiting in the mailbox (e.g. turn on the light), your computer picks it up, brings it back inside the house, executes it, and saves the results. It then goes back outside to the mailbox and leaves a message saying that the instruction has been executed (e.g. the light has been turned on successfully).
 
-Your computer (home serer) never has to open its doors to the public internet. It only reaches out to your website to get instructions and messages from you.
+Your computer (home server) never has to open its doors to the public internet. It only reaches out to your website to get instructions and messages from you. To ensure that only you can access your website, w2h uses a simple token based access control system, instead of a complicated registration and login system.
+
+<br>
+
