@@ -1,5 +1,5 @@
 # Web-2-Home (W2H)
-Interact with your home server and IoT devices using a simple self-hosted web interface.
+Interact with your home server and IoT devices from anywhere by using a simple self-hosted web interface.
 
 Currently to interact remotely with your home server or to send remote instructions to your IoT devices you need to use third party services like Tailscale, AWS IoT, or mobile apps.
 
