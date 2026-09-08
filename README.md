@@ -62,7 +62,7 @@ Use the web browser on your phone to send instructions to your laptop (home serv
 
 - Send messages from a mobile chat interface and get dummy responses from the code running on your laptop.
 - Use the control panel to press a button that remotely turns an Arduino LED on and off.
-- Send files from your phone to your laptop.
+- Send files from your phone to your laptop. The files will appear in the folder named: ```downloads```
 - Get a feel for the latency associated with this approach.
 - See the token access control system in action.
 
@@ -74,8 +74,8 @@ This is just one example. You can use the polling system with any custom website
 - You need to have the uv package manager installed.
 - You need to know how to build and host a website
 - Download the project folder
-- Upload all files in the web-app folder to your web host
-- Enter your website url into the w2h-poller.py file (located inside the python-app folder)
+- Upload all files in the ```web-app``` folder to your web host
+- Enter your website url into the ```w2h-poller.py``` file (located inside the ```python-app``` folder)
 - Terminal: Cd into the python-app folder
 - Terminal: uv run w2h-poller.py
 - Go to the website url and enter this token to gain access: 12345
