@@ -6,6 +6,16 @@ Python + Html + CSS + JS + PHP
 
 <br>
 
+<img src="images/image2.png" alt="App screenshot" height="500">
+<p>Remotely chat with the agent running on your home server</p>
+
+<br>
+
+<img src="images/image3.png" alt="App screenshot" height="500">
+<p>Remotely control connected devices</p>
+
+<br>
+
 <img src="images/image1.jpg" alt="Arduino Nano connected to Macbook Air via USB." height="350">
 <p>This Arduino LED can be switched on and off from your website.</p>
 
