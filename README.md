@@ -86,7 +86,7 @@ This is just one example. You can use the polling system with any custom website
 
 <br>
 
-## Working Local AI Agent Example
+## A Working Local AI Agent Example
 
 <br>
 
