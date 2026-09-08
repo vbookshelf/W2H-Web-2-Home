@@ -26,7 +26,7 @@ Sensors, motors and other electronic devices can be controlled from your compute
 
 Basic idea: Your home server (just a normal computer) uses a polling method to receive messages and instructions from you via your website. Polling simply means that it makes a request to your website every few seconds i.e. it knocks on the door and asks: "Are there any messages for me."
 
-By default, your home network blocks anything on the internet from coming in. With w2h, every few seconds your computer sends an outgoing request to your website to see if you've sent it any messages, commands or files. This allows your home server to receive instructions without compromising the security of your network. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction, which it then executes.
+By default, your home network blocks anything on the internet from coming in. With w2h, every few seconds your computer (home server) sends an outgoing request to your website (web server) to see if you've sent it any messages, commands or files. This allows your home server to receive instructions without compromising the security of your network. In other words, when you issue an instruction via your website, the instruction does not immediately go to your home server. It waits until your home server calls in and collects the instruction, which it then executes.
 
 To ensure that only you can access your website, w2h uses a simple token based access control system.
 
