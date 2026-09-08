@@ -66,7 +66,7 @@ Use the web browser on your phone to send instructions to your laptop (home serv
 - Get a feel for the latency associated with this approach.
 - See the token access control system in action.
 
-This is just one example. You can use the polling system with any custom website that you build. 
+This code is a working example. It's a starting point that can be modified and expanded. You can use the polling system with any project. 
 
 <br>
 
