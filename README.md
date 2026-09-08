@@ -82,6 +82,10 @@ This is just one example. You can use the polling system with any custom website
 
 <br>
 
+## How to connect the Arduino
+
+<br>
+
 ## Revision History
 
 Version 1.0<br>
