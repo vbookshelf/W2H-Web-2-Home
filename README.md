@@ -46,7 +46,7 @@ Compared to periodic polling, with long polling request frequency is reduced and
 
 <br>
 
-## Downsides
+## Downsides of the w2h system
 
 - Streaming is not possible.
 - Latency associated with polling may be higher than the P2P connection that third party services provide.
