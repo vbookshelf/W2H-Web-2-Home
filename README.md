@@ -86,6 +86,10 @@ This is just one example. You can use the polling system with any custom website
 
 <br>
 
+## Working Local AI Agent Example
+
+<br>
+
 ## References
 
 - Connect Ai to the Physical World with Arduino<br>
