@@ -18,7 +18,7 @@ Python + Html + CSS + JS + PHP
 
 <img src="images/image1.jpg" alt="Arduino Nano connected to Macbook Air via USB." height="350">
 <p>This Arduino LED can be switched on and off from your website.<br>
-Sensors, motors and other electronic devices can be connected to your computer using the I/O (input/ouput) pins on the Arduino.</p>
+Sensors, motors and other electronic devices can be controlled from your computer using the I/O (input/ouput) pins on the Arduino.</p>
 
 <br>
 
