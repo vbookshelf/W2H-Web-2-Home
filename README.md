@@ -66,9 +66,6 @@ Use the web browser on your phone to send instructions to your laptop (home serv
 - Get a feel for the latency associated with this approach.
 - See the token access control system in action.
 
-<br>
-
-## How the token access control system works
 
 
 <br>
