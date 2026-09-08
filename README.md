@@ -88,6 +88,16 @@ This is just one example. You can use the polling system with any custom website
 
 ## References
 
+- Connect Ai to the Physical World with Arduino<br>
+  https://github.com/vbookshelf/Connect-Ai-to-the-Physical-World-with-Arduino
+  
+- Juru Lab Desktop Agent Sandbox<br>
+  https://huggingface.co/datasets/vbookshelf/Juru-Lab-Agent-Sandbox-HYA
+  
+- Jai World - VRM 3D Embodied AI<br>
+  https://huggingface.co/datasets/vbookshelf/Jai-World-VRM-3D-Embodied-AI
+
+
 <br>
 
 ## Revision History
