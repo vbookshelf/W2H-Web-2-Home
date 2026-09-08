@@ -86,6 +86,10 @@ This is just one example. You can use the polling system with any custom website
 
 <br>
 
+## References
+
+<br>
+
 ## Revision History
 
 Version 1.0<br>
