@@ -61,7 +61,22 @@ Use the web browser on your phone to send instructions to your laptop (home serv
 - Send messages from a mobile chat interface and get dummy responses from the code running on your laptop.
 - Use the control panel to press a button that remotely turns an Arduino LED on and off.
 - Send files from your phone to your laptop.
-- Check the latency of this approach.
+- Get a feel for the latency associated with this approach.
 - See the token access control system in action.
 
 <br>
+
+## How the token access control system works
+
+
+<br>
+
+## How to run the example app
+
+<br>
+
+## Revision History
+
+Version 1.0<br>
+10 Sept 2026<br>
+First release.
