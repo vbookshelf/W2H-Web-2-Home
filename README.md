@@ -40,7 +40,7 @@ Periodic polling:<br>
 The home server goes to your website, checks for messages, and walks away — every 2 seconds, forever. Most of the time there are no messages, so it's a wasted trip. And if a mesage arrives right after a check, your server doesn't find out for almost 2 more seconds (the next scheduled check).
 
 Long polling:<br>
-The home server goes to your website and says "I'll just wait here for 20 seconds or until something arrives." The website (web server) holds the door open and keeps checking for messages every 0.3 seconds. If a message arrives, the website hands it over. If nothing shows up after 20 seconds, the web server finally says "Come back later." The home server leaves, comes back after two seconds, and waits again.
+The home server goes to your website and says "I'll just wait here for 20 seconds or until something arrives." The website (web server) holds the door open and keeps checking for messages every 0.3 seconds. If a message arrives, the web server hands it over. If nothing shows up after 20 seconds, the web server finally says "Come back later." The home server leaves, comes back after two seconds, and waits again.
 
 With long polling, request frequency is reduced and connection duration is increased. The net effect is to reduce the latency associated with periodic polling.
 
