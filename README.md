@@ -1,4 +1,4 @@
-# Web-2-Home Concept (W2H)
+# Web-2-Home (W2H) - Polling Connection
 Interact with your home server and it's connected IoT devices from anywhere by sending instructions from your website. No Tailscale, Amazon IoT or third party apps required.
 
 Tech stack:<br>
