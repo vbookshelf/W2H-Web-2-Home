@@ -128,7 +128,7 @@ https://huggingface.co/datasets/vbookshelf/W2H-ProtoAgent-Loop
 ## Revision History
 
 Version 1.0<br>
-10 Sept 2026<br>
+12 Sept 2026<br>
 First release.
 
 <br>
