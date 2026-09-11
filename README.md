@@ -103,8 +103,8 @@ If you initially see "Unknown - last command may have failed" after pressing the
 
 ## A Working Local AI Agent Example
 
-The W2H ProtoAgent Loop is a working example of how this system can be used with an AI agent. You can download the project from Hugging Face.<br>
-https://huggingface.co/datasets/vbookshelf/W2H-ProtoAgent-Loop
+The W2H Basic Agent Loop is a working example of how this system can be used with an AI agent. You can download the project from Hugging Face.<br>
+https://huggingface.co/datasets/vbookshelf/W2H-Basic-Agent-Loop
 
 <br>
 
@@ -119,8 +119,8 @@ https://huggingface.co/datasets/vbookshelf/W2H-ProtoAgent-Loop
 - Jai World - VRM 3D Embodied AI<br>
   https://huggingface.co/datasets/vbookshelf/Jai-World-VRM-3D-Embodied-AI
 
-- W2H ProtoAgent Loop<br>
- https://huggingface.co/datasets/vbookshelf/W2H-ProtoAgent-Loop
+- W2H Basic Agent Loop<br>
+  https://huggingface.co/datasets/vbookshelf/W2H-Basic-Agent-Loop
 
 
 <br>
