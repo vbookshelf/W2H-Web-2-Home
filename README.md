@@ -95,7 +95,9 @@ This code is a working example. It's a starting point that can be modified and e
   PORT = "/dev/cu.usbserial-110"   # Update to match your system (e.g. COM3 on Windows)
   ```
 - There is a Arduino sketch in the folder named: ```arduino-sketch```. Upload this sketch to your Arduino.
-- Go to the control panel page on the website. Press the button to turn the Arduino off and on.
+- Go to the control panel page on the website. Press the button to turn the Arduino off and on.<br>
+You will need to wait a few seconds while the command is sent and confirmed.<br>
+If you initially see "Unknown - last command may have failed" - pressing the button should clear that message.
 
 <br>
 
