@@ -119,8 +119,8 @@ https://huggingface.co/datasets/vbookshelf/W2H-ProtoStar-Agent-Loop
 - Jai World - VRM 3D Embodied AI<br>
   https://huggingface.co/datasets/vbookshelf/Jai-World-VRM-3D-Embodied-AI
 
-- W2H ProtoStar Agent Loop<br>
-  https://huggingface.co/datasets/vbookshelf/W2H-ProtoStar-Agent-Loop
+- W2H ProtoAgent Loop<br>
+ https://huggingface.co/datasets/vbookshelf/W2H-ProtoAgent-Loop
 
 
 <br>
