@@ -97,7 +97,7 @@ This code is a working example. It's a starting point that can be modified and e
 - There is a Arduino sketch in the folder named: ```arduino-sketch```. Upload this sketch to your Arduino.
 - Go to the control panel page on the website. Press the button to turn the Arduino off and on.<br>
 You will need to wait a few seconds while the command is sent and confirmed.<br>
-If you initially see "Unknown - last command may have failed" - pressing the button should clear that message.
+If you initially see "Unknown - last command may have failed" after pressing the button - wait a few seconds. The message should change when the status updates.
 
 <br>
 
