@@ -63,7 +63,7 @@ Use the web browser on your phone to send instructions to your laptop (home serv
 
 - Send messages from a mobile chat interface and get dummy responses from the code running on your laptop.
 - Use the control panel to press a button that remotely turns an Arduino LED on and off.
-- Send files from your phone to your laptop. The files will appear in the folder named: ```downloads```
+- Send files from your phone to your laptop. The files will appear in: ```python-app/downloads```
 - Get a feel for the latency associated with this approach.
 - See the token access control system in action.
 
