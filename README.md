@@ -81,9 +81,9 @@ This code is a working example. It's a starting point that can be modified and e
   YOUR_WEBSITE_URL = "https://my_website.com" 
   ARDUINO_PORT = "/dev/cu.usbserial-110" # (e.g. /dev/cu.usbserial-110 on mac and COM3 on Windows)
   ```
-- Terminal: Cd into the python-app folder
+- Terminal: Cd into the ```python-app``` folder
 - Terminal: uv run w2h-poller.py
-- Go to the website url and enter this token to gain access: 12345
+- Go to the website url and enter this token to gain access: ```12345```
 
 <br>
 
