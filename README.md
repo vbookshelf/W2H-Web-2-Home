@@ -77,6 +77,10 @@ This code is a working example. It's a starting point that can be modified and e
 - Download the project folder
 - Upload all files in the ```web-app``` folder to your web host
 - Enter your website url into the ```w2h-poller.py``` file (located inside the ```python-app``` folder)
+  ```
+  YOUR_WEBSITE_URL = "https://my_website.com" 
+  ARDUINO_PORT = "/dev/cu.usbserial-110" # (e.g. /dev/cu.usbserial-110 on mac and COM3 on Windows)
+  ```
 - Terminal: Cd into the python-app folder
 - Terminal: uv run w2h-poller.py
 - Go to the website url and enter this token to gain access: 12345
