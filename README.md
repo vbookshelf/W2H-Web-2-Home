@@ -103,8 +103,8 @@ If you initially see "Unknown - last command may have failed" - pressing the but
 
 ## A Working Local AI Agent Example
 
-The W2H ProtoStar Agent Loop is a working example of how this system can be used with an AI agent. You can download the project from Hugging Face.<br>
-https://huggingface.co/datasets/vbookshelf/W2H-ProtoStar-Agent-Loop
+The W2H ProtoAgent Loop is a working example of how this system can be used with an AI agent. You can download the project from Hugging Face.<br>
+https://huggingface.co/datasets/vbookshelf/W2H-ProtoAgent-Loop
 
 <br>
 
