@@ -83,11 +83,22 @@ This code is a working example. It's a starting point that can be modified and e
 
 <br>
 
-## How to connect the Arduino
+## How to connect the Arduino (Optional)
+
+- Connect the Arduino to you computer.
+- Set the port in ```w2h-poller.py```
+  ```
+  PORT = "/dev/cu.usbserial-110"   # Update to match your system (e.g. COM3 on Windows)
+  ```
+- There is a Arduino sketch in the folder named: ```arduino-sketch```. Upload this sketch to your Arduino.
+- Go to the control panel page on the website. Press the button to turn the Arduino off and on.
 
 <br>
 
 ## A Working Local AI Agent Example
+
+The W2H ProtoStar Agent Loop is a working example of how this system can be used with an AI agent. You can download the project from Hugging Face.<br>
+https://huggingface.co/datasets/vbookshelf/W2H-ProtoStar-Agent-Loop
 
 <br>
 
@@ -102,6 +113,9 @@ This code is a working example. It's a starting point that can be modified and e
 - Jai World - VRM 3D Embodied AI<br>
   https://huggingface.co/datasets/vbookshelf/Jai-World-VRM-3D-Embodied-AI
 
+- W2H ProtoStar Agent Loop<br>
+  https://huggingface.co/datasets/vbookshelf/W2H-ProtoStar-Agent-Loop
+
 
 <br>
 
@@ -110,3 +124,5 @@ This code is a working example. It's a starting point that can be modified and e
 Version 1.0<br>
 10 Sept 2026<br>
 First release.
+
+<br>
