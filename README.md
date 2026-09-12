@@ -1,4 +1,4 @@
-# Web 2 Home (W2H) - Home Server Web Interface
+# W2H - Polling Based Remote Access
 
 A web based polling system that lets you use a browser to interact with your home server and it's connected IoT devices from anywhere. No Tailscale, Amazon IoT or third party apps required.
 
